@@ -1,4 +1,4 @@
-# Machine Learning Bookcamp MARTIN
+# Machine Learning Bookcamp 
 
 The code from the Machine Learning Bookcamp book
 
